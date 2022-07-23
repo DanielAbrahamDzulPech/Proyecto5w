@@ -27,7 +27,7 @@
             </div>
             <div class="header-seccions">
                 <ul>
-                    <li>Nosotros</li>
+                    <li>Nosotros1</li>
                     <li>Servicios</li>
                     <li>Paquetes</li>
                     <li>Promociones</li>
