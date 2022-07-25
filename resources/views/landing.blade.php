@@ -144,10 +144,10 @@
             <div>
                 <img src="{{asset('img/logo2.png')}}" width="100" alt="" loading="lazy">
                 <div>
-                    <a href="https://api.whatsapp.com/send?phone=+529982152523&text=Estoy interesado en recibir más información sobre The Boat Playa del Carmen" target="_blank"><i class="fab fa-whatsapp hover:text-green-500 fa-3x"></i></a>
-                    <a href= "https://mail.google.com/"><i class="fa-solid fa-envelope fa-3x"></i></a>
-                    <a href= "tel:+529981608777"><i class="fa-solid fa-phone fa-3x"></i></a>
-                    <a href= "https://meet.google.com/btu-qnab-kjt"><i class="fa-solid fa-headset fa-3x"></i></a> 
+                    <a href="https://api.whatsapp.com/send?phone=+529982152523&text=Estoy interesado en recibir más información sobre los servicios de la refaccionaria 5W" target="_blank"><i class="fab fa-whatsapp hover:text-green-500 fa-3x"></i></a>
+                    <a href= "https://mail.google.com/" target="_blank"><i class="fa-solid fa-envelope fa-3x"></i></a>
+                    <a href= "tel:+529982152523" target="_blank"><i class="fa-solid fa-phone fa-3x"></i></a>
+                    <a href= "https://meet.google.com/btu-qnab-kjt" target="_blank"><i class="fa-solid fa-headset fa-3x"></i></a> 
                 </div>
             </div>
             <div>
